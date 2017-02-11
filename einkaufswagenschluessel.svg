@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="einkaufswagenschluessel.svg"
+   inkscape:version="0.92.0 r">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1316486"
+     inkscape:cx="0"
+     inkscape:cy="200.31464"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1916"
+     inkscape:window-height="1041"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.33507858"
+       d="m -40.910782,721.89062 -0.663437,22.67579 V 1122.5195 H 41.574219 V 744.56641 l -0.829296,-22.67579 -14.048596,0 -1.824451,22.67579 H 11.411327 L 10.084454,721.89062 H -9.7527353 l -1.6585917,22.67579 h -13.460549 l -1.492733,-22.67579 z M 0,759.68359 c 9.1851846,-5.2e-4 16.631377,7.44568 16.630859,16.63086 V 788.4082 C 16.631377,797.59338 9.1851846,805.03958 0,805.03906 c -9.1851846,5.2e-4 -16.631377,-7.44568 -16.630859,-16.63086 V 776.31445 C -16.631377,767.12927 -9.1851846,759.68307 0,759.68359 Z"
+       id="rect3680"
+       transform="scale(0.26458333)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+  </g>
+</svg>
